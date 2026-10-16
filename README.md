@@ -69,6 +69,7 @@ Spotipy/
 ```
 
 Le dossier `archive/` doit contenir les fichiers audio correspondant aux chemins enregistrés dans la base de données.
+⚠️ Aucun fichier mp3 n'est inclus dans le projet pour respecter les droits d'auteur.
 
 **Important :** les fichiers `main.py`, `bdd.py` et `musique.db` doivent être accessibles depuis le répertoire de lancement du programme.
 
